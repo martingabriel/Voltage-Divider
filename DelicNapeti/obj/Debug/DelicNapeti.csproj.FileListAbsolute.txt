@@ -1,0 +1,13 @@
+c:\users\martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\DelicNapeti.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\MainWindow.baml
+c:\users\martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\MainWindow.g.cs
+c:\users\martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\App.g.cs
+c:\users\martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\DelicNapeti.Properties.Resources.resources
+c:\users\martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\DelicNapeti.csproj.GenerateResource.Cache
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\bin\Debug\Voltage Divider.exe.config
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\bin\Debug\Voltage Divider.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\bin\Debug\Voltage Divider.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\Voltage Divider_MarkupCompile.cache
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\Voltage Divider.g.resources
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\Voltage Divider.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\DelicNapeti\DelicNapeti\obj\Debug\Voltage Divider.pdb
